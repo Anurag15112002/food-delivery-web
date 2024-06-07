@@ -3,7 +3,6 @@
     display:flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(243, 229, 219);
     border-radius: 10px;
 }
 .nabar.logo{
@@ -31,7 +30,7 @@
     cursor: pointer;
 }
 .navbar button:hover{
-    background-color:rgb(255, 180, 168)
+    background-color:rgb(254, 219, 213)
 }
 .navbar .active{
     padding-bottom: 2px;
