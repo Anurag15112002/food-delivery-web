@@ -18,6 +18,9 @@ const Cart = () => {
         <br />
         <hr />
        </div>
+       <div>
+        
+       </div>
       
     </div>
   )
